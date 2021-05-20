@@ -17,4 +17,4 @@ In this project we are going to create 26 clusters from the given n% training da
 7. evaluation.py: After execution of this file we will get accuracy(%) and the heatmap of confusion matrix based on the prediction. 
 
 
-##### Dataset link : https://archive.ics.uci.edu/ml/datasets/Letter+Recognition 
+##### Dataset link : https://archive.ics.uci.edu/ml/datasets/Letter+Recognition  
